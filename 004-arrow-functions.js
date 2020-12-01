@@ -1,3 +1,8 @@
+/**
+ * To run this file in Gitpod, use the 
+ * command node 004-arrow-functions.js in the terminal
+ */
+
 // Vanilla JavaScript Function
 
 // Arrow Function With Parameters

@@ -1,4 +1,4 @@
-# 004 - Arrow Functions
+# Arrow Functions
 
 To use this repository:
 - Click the "Use this template" button in the upper right
